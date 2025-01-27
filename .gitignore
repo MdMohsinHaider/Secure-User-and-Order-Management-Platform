@@ -600,3 +600,6 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+/src/main/resources/META-INF/persistence.xml
+
